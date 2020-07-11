@@ -1,3 +1,5 @@
+#This is a simple code to create a pdf from a batch of image files.
+
 from PIL import Image
 import os
 
